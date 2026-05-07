@@ -17,7 +17,7 @@ I'm a Pre-Final Year student passionate about Full-Stack Development and buildin
 - Tools: Git, GitHub, VS Code
 
 ## 📫 To Reach me out : 
-- GitHub:[my-Repos](https://github.com/vinaykirithic05)
+- GitHub: [my-Repos](https://github.com/vinaykirithic05)
 - LinkedIn: [linkedin](https://www.linkedin.com/in/vinay-kirithic-m-r-k/)
 - Email: vinaykirithic05@gmail.com
 - Phone No : +91 90428 10455
