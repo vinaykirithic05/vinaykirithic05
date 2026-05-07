@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there 👋 I'm Vinay
 
-<!--
-**vinaykirithic05/vinaykirithic05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻
+I'm a Pre-Final Year student passionate about Full-Stack Development and building modern web applications. I enjoy learning new technologies and solving problems through coding.
 
-Here are some ideas to get you started:
+## 🚀 I currently working on?
+- Building Web Applications & Projects
+- Practicing Data Structures & Algorithms
+- Improving Full-Stack Development Skills
+- Working on a Timetable Generator Project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ tools I use :
+- Frontend: React, Tailwind CSS
+- Backend: Node.js, Express.js
+- Database: MongoDB
+- Languages: JavaScript, Java, Java
+- Tools: Git, GitHub, VS Code
+
+## 📫 To Reach me out : 
+- GitHub:[ your-github-link](https://github.com/vinaykirithic05)
+- LinkedIn: [your-linkedin-link](https://www.linkedin.com/in/vinay-kirithic-m-r-k/)
+- Email: vinaykirithic05@gmail.com
+- Phone No : +91 90428 10455
