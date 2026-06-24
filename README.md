@@ -129,12 +129,10 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinaykirithi
 
 ---
 
-# 🏆 GitHub Trophies
+## 📊 Profile Summary
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=vinaykirithic05&theme=tokyonight&row=1&column=7"/>
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinaykirithic05&theme=tokyonight" />
 </p>
 
 ---
