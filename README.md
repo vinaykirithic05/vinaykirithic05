@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vinay Kirithic</h1>
 
 <h3 align="center">
-Pre-Final Year IT Student | Full Stack Developer | MERN Stack Enthusiast
+Final Year IT Student | Full Stack Developer | MERN Stack Enthusiast
 </h3>
 
 <p align="center">
